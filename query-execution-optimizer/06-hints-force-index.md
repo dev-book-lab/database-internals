@@ -534,6 +534,6 @@ WHERE status = 'PAID' ORDER BY id LIMIT 10;
 
 <div align="center">
 
-**[⬅️ 이전: Statistics](./05-statistics.md)** | **[홈으로 🏠](../README.md)** | **[다음 챕터: Transaction & MVCC ➡️](../transaction-mvcc/01-acid-guarantees.md)**
+**[⬅️ 이전: Statistics](./05-statistics.md)** | **[홈으로 🏠](../README.md)** | **[다음 챕터: Transaction & MVCC ➡️](../transaction-mvcc/01-acid-implementation.md)**
 
 </div>

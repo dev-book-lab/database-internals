@@ -713,6 +713,6 @@ KILL [process_id];  -- SHOW PROCESSLIST에서 확인한 ID
 
 <div align="center">
 
-**[⬅️ 대용량 최적화](./04-large-table-optimization.md)** | **[홈으로 🏠](../README.md)** | **[다음 챕터: Replication & HA ➡️](../replication-high-availability/01-mysql-replication.md)**
+**[⬅️ 대용량 최적화](./04-large-table-optimization.md)** | **[홈으로 🏠](../README.md)** | **[다음 챕터: Replication & HA ➡️](../replication-high-availability/01-mysql-replication-binlog.md)**
 
 </div>
