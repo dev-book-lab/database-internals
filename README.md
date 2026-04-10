@@ -428,6 +428,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"SQL을 쓰는 것과, DB가 내부에서 무슨 일을 하는지 아는 것은 다르다"*
+**"SQL을 쓰는 것과, DB가 내부에서 무슨 일을 하는지 아는 것은 다르다"**
 
 </div>
